@@ -7,7 +7,9 @@
     "software": "GNU GPLv3",
     "content": "CC­BY­NC­SA 4.0"
   },
-  "dependencies": {},
+  "dependencies": {
+    "array-flatten": "^2.1.1"
+  },
   "devDependencies": {
     "chai": "^3.5.0",
     "grunt": "^1.0.1",
